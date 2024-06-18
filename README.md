@@ -1,12 +1,7 @@
-## NOT MAINTAINED
+## project
 
-This project is no longer maintained.
-
-
-## Forks and continuation of this project
-
-* [linux-wifi-hotspot] - Fork that is focused on providing GUI and improvements.
-* [linux-router] - Fork that is focused on providing new features and
+* [linux-wifi-hotspot] - focused on providing GUI and improvements.
+* [linux-router] - focused on providing new features and
     improvements which are not limited to WiFi. Some interesting features are:
     sharing Internet to a wired interface and sharing Internet via a transparent
     proxy using redsocks.
